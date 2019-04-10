@@ -118,7 +118,7 @@ Step 1: Clone the repository https://github.com/brendan-rius/c-jwt-cracker
 
 Step 2: Navigate to cloned repository and compile the source code using 'make'
 
-Step 3: Run ./jwtcrack <JWT>
+Step 3: Run ./jwtcrack Your_JWT_Token
 	
 In case of weak secret value, this will bruteforce the secret.
   
